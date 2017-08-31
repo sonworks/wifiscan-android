@@ -1,0 +1,7 @@
+#Thu Aug 31 16:44:07 JST 2017
+base.0=/Users/sonworks/Documents/WifiScan/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f9144ec34137aef4efb7f9cba32f3fa4e1b0d5a1
+renamed.1=classes.dex
+renamed.0=classes2.dex
+file.1=/Users/sonworks/Documents/WifiScan/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_33074ba6d6ae2e45a2d3e97206501eb3543ee76b/classes.dex
+base.1=/Users/sonworks/Documents/WifiScan/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run_33074ba6d6ae2e45a2d3e97206501eb3543ee76b
+file.0=/Users/sonworks/Documents/WifiScan/app/build/intermediates/transforms/dex/debug/folders/1000/10000/instant-run-bootstrap_f9144ec34137aef4efb7f9cba32f3fa4e1b0d5a1/classes.dex

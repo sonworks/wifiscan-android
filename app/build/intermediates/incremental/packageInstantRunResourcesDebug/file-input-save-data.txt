@@ -1,0 +1,18 @@
+#Internal package file, do not edit.
+#Thu Aug 31 16:43:44 JST 2017
+1.base=/Users/sonworks/Documents/WifiScan/app/build/intermediates/res/resources-debug.ap_
+4.file=/Users/sonworks/Documents/WifiScan/app/build/intermediates/res/resources-debug.ap_/res/menu/activity_main.xml
+1.file=/Users/sonworks/Documents/WifiScan/app/build/intermediates/res/resources-debug.ap_/res/layout/activity_main.xml
+4.set=ANDROID_RESOURCE
+2.base=/Users/sonworks/Documents/WifiScan/app/build/intermediates/res/resources-debug.ap_
+3.set=ANDROID_RESOURCE
+2.set=ANDROID_RESOURCE
+2.file=/Users/sonworks/Documents/WifiScan/app/build/intermediates/res/resources-debug.ap_/AndroidManifest.xml
+count=5
+1.set=ANDROID_RESOURCE
+3.base=/Users/sonworks/Documents/WifiScan/app/build/intermediates/res/resources-debug.ap_
+0.set=ANDROID_RESOURCE
+0.base=/Users/sonworks/Documents/WifiScan/app/build/intermediates/res/resources-debug.ap_
+3.file=/Users/sonworks/Documents/WifiScan/app/build/intermediates/res/resources-debug.ap_/res/drawable-xhdpi-v4/ic_launcher.png
+0.file=/Users/sonworks/Documents/WifiScan/app/build/intermediates/res/resources-debug.ap_/resources.arsc
+4.base=/Users/sonworks/Documents/WifiScan/app/build/intermediates/res/resources-debug.ap_
